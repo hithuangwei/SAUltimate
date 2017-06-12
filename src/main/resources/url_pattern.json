@@ -1,0 +1,9 @@
+{"Pub":{"viewName":"default","methodName":"Pub"},
+  "Mod":{"viewName":"modify","methodName":"Mod"},
+  "Logout":{"viewName":"logout","methodName":"Logout"},
+  "Top":{"viewName":"","methodName":"Top"},
+  "View":{"viewName":"default","methodName":"View"},
+  "Detail":{"viewName":"default","methodName":"Detail"},
+  "Login":{"viewName":"login","methodName":"Login"},
+  "Del":{"viewName":"","methodName":"Del"},
+  "Reg":{"viewName":"reg","methodName":"Reg"}}
